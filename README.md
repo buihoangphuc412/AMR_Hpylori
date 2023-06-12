@@ -1,2 +1,2 @@
 # AMR_Hpylori
-Mini
+
